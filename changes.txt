@@ -1,0 +1,4 @@
+redux changes
+- in index.js - added provider, store
+- in loginScreen.js - added usedispatch
+- in header.js - added useSelector, changed title

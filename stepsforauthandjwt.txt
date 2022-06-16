@@ -1,0 +1,2 @@
+1. create server, routes and controllers for user auth.
+2. npm i bcrypt express-async-handler jsonwebtoken
